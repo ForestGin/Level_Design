@@ -1227,3 +1227,100 @@ Script Stack (0 frames):
 [2021.03.11-17.32.28:361][276]LogSavePackage: Moving '../../../../../../Users/W10/Documents/GitHub/Level_Design/TyrantTest/Saved/ThirdPersonExampleMap3DB0C39E4984A58001C661B6D6B603BD.tmp' to '../../../../../../Users/W10/Documents/GitHub/Level_Design/TyrantTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.03.11-17.32.28:403][276]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.03.11-17.32.28:403][276]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.11-17.33.04:601][212]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.11-17.33.32:821][870]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.11-17.35.39:846][188]Cmd: TRANSACTION UNDO
+[2021.03.11-17.35.39:846][188]LogEditorTransaction: Undo Scale Actors
+[2021.03.11-17.35.41:736][280]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.11-17.35.57:315][196]Cmd: TRANSACTION UNDO
+[2021.03.11-17.35.57:315][196]LogEditorTransaction: Undo Move Actors
+[2021.03.11-17.37.08:518][368]Cmd: TRANSACTION UNDO
+[2021.03.11-17.37.08:518][368]LogEditorTransaction: Undo Scale Actors
+[2021.03.11-17.39.38:277][197]LogEditorViewport: Clicking on Actor (LMB): Brush (Caja Pincel)
+[2021.03.11-17.40.24:745][933]LogEditorViewport: Clicking on Actor (LMB): Brush (Cilindro Pincel)
+[2021.03.11-17.41.00:609][ 41]LogEditorViewport: Clicking on Actor (LMB): Brush (Caja Pincel)
+[2021.03.11-17.41.10:013][595]LogEditorViewport: Clicking on Actor (LMB): Brush (Cilindro Pincel)
+[2021.03.11-17.41.27:816][648]Cmd: TRANSACTION UNDO
+[2021.03.11-17.41.27:816][648]LogEditorTransaction: Undo Move Actors
+[2021.03.11-17.41.27:859][648]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.03.11-17.41.27:859][648]LogGeometryMode: Warning: Unable to resolve CilindroPincel Brush in new BSP, see above
+[2021.03.11-17.41.27:859][648]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.03.11-17.41.35:632][ 94]LogGeometryMode: Warning: Unable to find CajaPincel Brush(s) in new BSP
+[2021.03.11-17.41.35:632][ 94]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.03.11-17.41.48:617][842]LogEditorViewport: Clicking on Actor (context menu): Brush (Caja Pincel)
+[2021.03.11-17.41.49:877][913]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.11-17.42.40:786][885]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2021.03.11-17.42.40:786][885]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.03.11-17.43.18:554][111]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.18:554][111]LogEditorTransaction: Undo Modificador [Editar]
+[2021.03.11-17.43.18:973][122]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.18:974][122]LogEditorTransaction: Undo Move Actors
+[2021.03.11-17.43.19:400][141]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.19:400][141]LogEditorTransaction: Undo Move Actors
+[2021.03.11-17.43.19:933][169]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.19:934][169]LogEditorTransaction: Undo Move Actors
+[2021.03.11-17.43.20:313][188]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.20:313][188]LogEditorTransaction: Undo Move Actors
+[2021.03.11-17.43.21:252][240]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.21:252][240]LogEditorTransaction: Undo Modificador [Editar]
+[2021.03.11-17.43.21:704][264]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.21:704][264]LogEditorTransaction: Undo Modificador [Editar]
+[2021.03.11-17.43.22:096][286]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.22:096][286]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.11-17.43.22:371][298]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.22:371][298]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.11-17.43.22:580][308]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.22:580][308]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.11-17.43.22:967][329]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.22:967][329]LogEditorTransaction: Undo Move Actors
+[2021.03.11-17.43.23:265][342]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.23:265][342]LogEditorTransaction: Undo Move Actors
+[2021.03.11-17.43.23:526][354]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.23:526][354]LogEditorTransaction: Undo Modificador [Editar]
+[2021.03.11-17.43.23:816][370]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.23:816][370]LogEditorTransaction: Undo Move Actors
+[2021.03.11-17.43.23:857][370]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.03.11-17.43.23:857][370]LogGeometryMode: Warning: Unable to resolve CilindroPincel Brush in new BSP, see above
+[2021.03.11-17.43.23:857][370]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.03.11-17.43.24:046][379]Cmd: TRANSACTION UNDO
+[2021.03.11-17.43.24:046][379]LogEditorTransaction: Undo Modificador [Editar]
+[2021.03.11-17.44.50:074][444]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2021.03.11-17.44.50:074][444]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.03.11-17.44.59:724][  2]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2021.03.11-17.44.59:724][  2]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.03.11-17.46.40:617][934]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.11-17.47.13:745][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.03.11-17.47.13:840][867]LogSavePackage: Moving '../../../../../../Users/W10/Documents/GitHub/Level_Design/TyrantTest/Saved/ThirdPersonExampleMap_Auto6D543E6364AE79EE1FD3A7896E1BF6E3A.tmp' to '../../../../../../Users/W10/Documents/GitHub/Level_Design/TyrantTest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2021.03.11-17.47.13:842][867]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.123
+[2021.03.11-17.47.13:842][867]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.123
+[2021.03.11-17.47.24:996][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.03.11-17.47.58:767][507]Cmd: TRANSACTION UNDO
+[2021.03.11-17.47.58:768][507]LogEditorTransaction: Undo Scale Actors
+[2021.03.11-17.48.16:907][543]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.11-17.48.20:426][745]LogGeometryMode: Warning: Unable to find CilindroPincel Brush(s) in new BSP
+[2021.03.11-17.48.20:426][745]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.03.11-17.48.41:327][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.03.11-17.50.13:234][418]Cmd: EDIT COPY
+[2021.03.11-17.50.13:651][443]Cmd: EDIT PASTE
+[2021.03.11-17.50.59:715][136]Cmd: EDIT COPY
+[2021.03.11-17.51.00:565][187]Cmd: EDIT PASTE
+[2021.03.11-17.51.14:839][ 27]Cmd: EDIT PASTE
+[2021.03.11-17.51.19:564][282]Cmd: TRANSACTION UNDO
+[2021.03.11-17.51.19:564][282]LogEditorTransaction: Undo Move Actors
+[2021.03.11-17.51.57:623][510]Cmd: EDIT COPY
+[2021.03.11-17.51.58:030][534]Cmd: EDIT PASTE
+[2021.03.11-17.52.41:798][137]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.11-17.53.52:569][282]LogGeometryMode: Warning: Unable to find EsferaPincel Brush(s) in new BSP
+[2021.03.11-17.53.52:569][282]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.03.11-17.54.59:418][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.03.11-17.55.00:840][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.03.11-17.55.01:668][284]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.11-17.55.15:643][101]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.11-17.56.17:126][686]Cmd: EDIT COPY
+[2021.03.11-17.56.17:827][728]Cmd: EDIT PASTE
+[2021.03.11-17.56.21:455][931]Cmd: TRANSACTION UNDO
+[2021.03.11-17.56.21:455][931]LogEditorTransaction: Undo Move Actors
+[2021.03.11-17.57.59:939][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.03.11-17.58.00:045][731]LogSavePackage: Moving '../../../../../../Users/W10/Documents/GitHub/Level_Design/TyrantTest/Saved/ThirdPersonExampleMap526B356041C47F08D670DA8AB5A771C9.tmp' to '../../../../../../Users/W10/Documents/GitHub/Level_Design/TyrantTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.03.11-17.58.00:077][731]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.03.11-17.58.00:077][731]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
