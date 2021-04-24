@@ -1,0 +1,1285 @@
+﻿Log file open, 04/24/21 11:40:27
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: HouseOfTheTyrant_2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.306043
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Megaoski -epicuserid=e16c3c93bb38413e9b1a06496b381a16 -epiclocale=es
+LogInit: Base Directory: F:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.04.24-09.40.28:545][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.24-09.40.28:545][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Engine.ini]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Engine.ini]
+[2021.04.24-09.40.28:546][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Engine.ini]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Engine.ini]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.24-09.40.28:546][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Engine.ini]
+[2021.04.24-09.40.28:546][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Engine.ini]
+[2021.04.24-09.40.28:580][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:580][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.24-09.40.28:580][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.24-09.40.28:580][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:580][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.24-09.40.28:580][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:580][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.24-09.40.28:580][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.24-09.40.28:580][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.24-09.40.28:580][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.24-09.40.28:580][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.24-09.40.28:580][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.24-09.40.28:580][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.24-09.40.28:580][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.24-09.40.28:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.24-09.40.28:583][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.24-09.40.28:583][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.24-09.40.28:583][  0]LogHAL: Display: Platform has ~ 16 GB [17140936704 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.24-09.40.28:583][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.24-09.40.28:583][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.24-09.40.28:583][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Scalability.ini]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.24-09.40.28:584][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.24-09.40.28:585][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.24-09.40.28:585][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.24-09.40.28:585][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.24-09.40.28:585][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Engine.ini]
+[2021.04.24-09.40.28:585][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Level_Design/HouseOfTheTyrant_2/Saved/Config/Windows/Editor.ini]
+[2021.04.24-09.40.28:585][  0]LogInit: Computer: DESKTOP-UR890LL
+[2021.04.24-09.40.28:585][  0]LogInit: User: Usuario
+[2021.04.24-09.40.28:585][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.04.24-09.40.28:585][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.24-09.40.28:585][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.04.24-09.40.28:585][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.24-09.40.28:585][  0]LogMemory: Process Physical Memory: 137.00 MB used, 137.00 MB peak
+[2021.04.24-09.40.28:585][  0]LogMemory: Process Virtual Memory: 118.00 MB used, 118.00 MB peak
+[2021.04.24-09.40.28:585][  0]LogMemory: Physical Memory: 9115.17 MB used,  7231.70 MB free, 16346.87 MB total
+[2021.04.24-09.40.28:585][  0]LogMemory: Virtual Memory: 134196624.00 MB used,  21105.33 MB free, 134217728.00 MB total
+[2021.04.24-09.40.28:592][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.24-09.40.28:650][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.24-09.40.28:651][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.04.24-09.40.28:651][  0]LogInit: Using OS detected locale (es-ES).
+[2021.04.24-09.40.28:861][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.24-09.40.28:871][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.24-09.40.28:886][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.24-09.40.28:886][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.24-09.40.29:223][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.24-09.40.29:223][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.24-09.40.29:223][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.24-09.40.29:223][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.24-09.40.29:367][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.04.24-09.40.29:367][  0]LogD3D11RHI:       6052/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.04.24-09.40.29:369][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.24-09.40.29:369][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.24-09.40.29:369][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.24-09.40.29:377][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.24-09.40.29:377][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.24-09.40.29:377][  0]LogWindows: EnumDisplayDevices:
+[2021.04.24-09.40.29:377][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.04.24-09.40.29:378][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.04.24-09.40.29:378][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.04.24-09.40.29:379][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.04.24-09.40.29:379][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.04.24-09.40.29:379][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.04.24-09.40.29:379][  0]LogD3D11RHI:   Driver Version: 461.92 (internal:27.21.14.6192, unified:461.92)
+[2021.04.24-09.40.29:379][  0]LogD3D11RHI:      Driver Date: 3-10-2021
+[2021.04.24-09.40.29:379][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.04.24-09.40.29:476][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.24-09.40.29:476][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.24-09.40.29:476][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.24-09.40.29:498][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.24-09.40.29:500][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.04.24-09.40.29:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.24-09.40.29:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.24-09.40.29:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.24-09.40.29:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.24-09.40.29:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.24-09.40.29:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.24-09.40.29:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.24-09.40.29:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.24-09.40.29:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.24-09.40.29:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.24-09.40.29:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.24-09.40.29:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.24-09.40.29:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.24-09.40.29:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.24-09.40.29:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.24-09.40.29:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.24-09.40.29:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.24-09.40.29:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.24-09.40.29:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.24-09.40.29:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.24-09.40.30:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.24-09.40.30:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.24-09.40.30:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.24-09.40.30:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.24-09.40.30:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.24-09.40.30:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.24-09.40.30:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.24-09.40.30:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.24-09.40.30:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.24-09.40.30:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.24-09.40.30:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.24-09.40.30:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.24-09.40.30:094][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.24-09.40.30:103][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.24-09.40.30:167][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.04.24-09.40.30:167][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (../../../../Level_Design/HouseOfTheTyrant_2/Intermediate/Shaders/WorkingDirectory/18328/).
+[2021.04.24-09.40.30:167][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Usuario/AppData/Local/Temp/UnrealShaderWorkingDir/10FA4CA14F951F2EFCE236A980524060/'.
+[2021.04.24-09.40.30:167][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.24-09.40.30:167][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.24-09.40.31:106][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.24-09.40.31:167][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Usuario/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.24-09.40.31:167][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Usuario/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.24-09.40.31:167][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Level_Design/HouseOfTheTyrant_2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.24-09.40.31:167][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.24-09.40.31:168][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Level_Design/HouseOfTheTyrant_2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.24-09.40.31:168][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.24-09.40.31:183][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.24-09.40.31:183][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.24-09.40.31:183][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.24-09.40.31:191][  0]LogDerivedDataCache: Speed tests for C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.04.24-09.40.31:191][  0]LogDerivedDataCache: Display: Performance to C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=863.30MBs, RandomWriteSpeed=143.11MBs. Assigned SpeedClass 'Local'
+[2021.04.24-09.40.31:192][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.24-09.40.31:192][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.24-09.40.31:192][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.24-09.40.31:250][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.24-09.40.31:251][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.24-09.40.31:282][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2021.04.24-09.40.31:541][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.24-09.40.31:541][  0]LogInit: Active device profile: [0000019632A9B900][00000196212280C0 49] Windows
+[2021.04.24-09.40.31:541][  0]LogInit: Profiles: [0000019632A9B900][00000196212280C0 49] Windows, [0000019632A70800][0000019621230240 49] WindowsNoEditor, [0000019632A98700][00000196212343C0 49] WindowsServer, [0000019632A73600][0000019621238540 49] WindowsClient, [0000019632A9B400][000001962123C6C0 49] IOS, [0000019632A70F00][0000019631AFE840 49] iPadAir, [0000019632A98E00][0000019631B029C0 49] iPadAir2, [0000019632A2CF00][0000019631B0AC80 49] IPadPro, [0000019632A2D000][0000019631B06CC0 49] iPadAir3, [0000019632A9B000][0000019631B0EE40 49] iPadAir4, [0000019632A2CD00][0000019631B12FC0 49] iPadMini2, [0000019632A99100][0000019631B17140 49] iPadMini3, [0000019632A2E000][0000019631B1B2C0 49] iPadMini4, [0000019632A9A900][0000019631B1F440 49] iPadMini5, [0000019632A73E00][0000019631B27700 49] iPhone6, [0000019632A70D00][0000019631B23740 49] iPodTouch6, [0000019632A2F400][0000019631B2B980 49] iPhone7, [0000019632A2C800][000001962122D9C0 49] iPodTouch7, [0000019632A73500][0000019631B2FB00 49] iPhone5S, [0000019632A2C400][0000019631B33C40 49] iPhone6Plus, [0000019632A72C00][0000019631B3A100 49] iPhone6S, [0000019632A2F800][0000019631B3E280 49] iPhone6SPlus, [0000019632A70E00][0000019631B42400 49] iPhone7Plus, [0000019632A2DF00][0000019631B46580 49] iPhoneSE, [0000019632A70500][0000019631B4A700 49] iPhone8, [0000019632A2E800][0000019631B4E880 49] iPhone8Plus, [0000019632A71C00][0000019631B52A00 49] iPhoneX, [0000019632A2D600][0000019631B56B80 49] iPhoneXS, [0000019632A73400][0000019631B5AD00 49] iPhoneXSMax, [0000019632A2F100][0000019631B5EE80 49] iPhoneXR, [0000019632A72700][0000019631B63000 49] iPhone11, [0000019632A2C600][0000019631B67180 49] iPhone11Pro, [0000019632A72D00][0000019631B6B300 49] iPhone11ProMax, [0000019632A2FA00][0000019631B6F480 49] iPhoneSE2, [0000019632A71E00][0000019631B73600 49] iPhone12Mini, [0000019632A2D900][0000019631B77780 49] iPhone12, [0000019632A71A00][0000019631B378C0 49] iPhone12Pro, [0000019632A2ED00][0000019631B7BA00 49] iPhone12ProMax, [0000019632A70B00][0000019631B7FB40 49] iPadPro105, [0000019632A2E600][0000019631B83C80 49] iPadPro129, [0000019632A72100][0000019631B8A140 49] iPadPro97, [0000019632A2C700][0000019631B8E2C0 49] iPadPro2_129, [0000019632A72F00][0000019631B92440 49] iPad5, [0000019632A2FB00][0000019631B965C0 49] iPad6, [0000019632A70A00][0000019631B9A740 49] iPad7, [0000019632A2EE00][0000019631B9E8C0 49] iPad8, [0000019632A71000][0000019631BA2A40 49] iPadPro11, [0000019632A2D400][0000019631BA6BC0 49] iPadPro2_11, [0000019632A71300][0000019631BAAD40 49] iPadPro3_129, [0000019632A2C200][0000019631BAEEC0 49] iPadPro4_129, [0000019632A71800][0000019631BB3040 49] AppleTV, [0000019632A2E500][0000019631BB71C0 49] AppleTV4K, [0000019632A70300][0000019631BBB340 49] TVOS, [0000019632A2C300][0000019631BBF4C0 49] Mac, [0000019632A72300][0000019631BC3640 49] MacClient, [0000019632A2E200][0000019631BC77C0 49] MacNoEditor, [0000019632A73200][0000019631BCB940 49] MacServer, [0000019632A2FF00][0000019631B87A80 49] Linux, [0000019632A73100][0000019631BCFBC0 49] LinuxAArch64, [0000019632A2CA00][0000019631BD3D00 49] LinuxNoEditor, [0000019632A70900][0000019631BDA1C0 49] LinuxAArch64NoEditor, [0000019632A2F600][0000019631BDE340 49] LinuxClient, [0000019632A70C00][0000019631BE24C0 49] LinuxAArch64Client, [0000019632B11C00][0000019631BE6640 49] LinuxServer, [0000019632A9BD00][0000019631BEA7C0 49] LinuxAArch64Server, [0000019632B11900][000001961F804940 49] Android, [0000019632A9AC00][000001961F808AC0 49] Android_Low, [0000019632B10300][000001961F80CC40 49] Android_Mid, [0000019632A9B100][000001961F810DC0 49] Android_High, [0000019632B10500][000001961F814F40 49] Android_Default, [0000019632A9AA00][000001961F8190C0 49] Android_Adreno4xx, [0000019632B12000][000001961F81D240 49] Android_Adreno5xx_Low, [0000019632A99800][000001961F8213C0 49] Android_Adreno5xx, [0000019632B10E00][000001961F825540 49] Android_Adreno6xx, [0000019632A99600][000001961F8296C0 49] Android_Adreno6xx_Vulkan, [0000019632B10800][000001961F82D840 49] Android_Mali_T6xx, [0000019632A9A200][000001961F8319C0 49] Android_Mali_T7xx, [0000019632B11100][0000019631BD7B00 49] Android_Mali_T8xx, [0000019632A9B300][000001961F835C40 49] Android_Mali_G71, [0000019632B10A00][000001961F8380C0 49] Android_Mali_G72, [0000019632A99C00][000001961F840240 49] Android_Mali_G72_Vulkan, [0000019632A73A00][000001961F8443C0 49] Android_Mali_G76, [0000019632A2E900][000001961F848540 49] Android_Mali_G76_Vulkan, [0000019632A72600][000001961F84C6C0 49] Android_Mali_G77, [0000019632A2E300][000001961F850840 49] Android_Mali_G77_Vulkan, [0000019632A73900][00000196330309C0 49] Android_Vulkan_SM5, [0000019632A2FD00][0000019633034B40 49] Android_PowerVR_G6xxx, [0000019632A73D00][000001963303CCC0 49] Android_PowerVR_GT7xxx, [0000019632A2FE00][0000019633040E40 49] Android_PowerVR_GE8xxx, [0000019632A73000][0000019633044FC0 49] Android_PowerVR_GM9xxx, [0000019632A2E400][0000019633049140 49] Android_PowerVR_GM9xxx_Vulkan, [0000019632A71100][000001963304D2C0 49] Android_TegraK1, [0000019632A2D300][0000019633051440 49] Android_Unknown_Vulkan, [0000019632A72B00][00000196330555C0 49] Lumin, [0000019632B10C00][0000019633059740 49] Lumin_Desktop, [0000019632A71F00][000001963305D8C0 49] HoloLens, 
+[2021.04.24-09.40.31:679][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.24-09.40.31:679][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.24-09.40.31:679][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.24-09.40.31:679][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.24-09.40.31:679][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.24-09.40.31:700][  0]LogNetVersion: HouseOfTheTyrant_2 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1369855196)
+[2021.04.24-09.40.32:650][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.04.24-09.40.33:363][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.712652 seconds
+[2021.04.24-09.40.33:369][  0]LogUObjectArray: 17488 objects as part of root set at end of initial load.
+[2021.04.24-09.40.33:369][  0]LogUObjectAllocator: 4474928 out of 0 bytes used by permanent object pool.
+[2021.04.24-09.40.33:369][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.24-09.40.34:266][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.24-09.40.34:270][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.24-09.40.34:508][  0]SourceControl: Source control is disabled
+[2021.04.24-09.40.34:509][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.04.24-09.40.34:509][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.04.24-09.40.34:509][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.04.24-09.40.34:509][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.04.24-09.40.34:509][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.04.24-09.40.34:509][  0]LogWindows: Warning: URL: C:\Users\Usuario\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.04.24-09.40.34:509][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.04.24-09.40.34:509][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.04.24-09.40.34:509][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.04.24-09.40.34:509][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.04.24-09.40.34:510][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.04.24-09.40.34:510][  0]LogWindows: Warning: URL: C:\Users\Usuario\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.04.24-09.40.35:681][  0]LogUProjectInfo: Found projects:
+[2021.04.24-09.40.36:507][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.24-09.40.36:529][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.24-09.40.36:529][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.24-09.40.36:581][  0]LogCollectionManager: Loaded 0 collections in 0.000753 seconds
+[2021.04.24-09.40.36:606][  0]LogFileCache: Scanning file cache for directory 'F:/Level_Design/HouseOfTheTyrant_2/Saved/Collections/' took 0.00s
+[2021.04.24-09.40.36:606][  0]LogFileCache: Scanning file cache for directory 'F:/Level_Design/HouseOfTheTyrant_2/Content/Developers/Usuario/Collections/' took 0.00s
+[2021.04.24-09.40.36:606][  0]LogFileCache: Scanning file cache for directory 'F:/Level_Design/HouseOfTheTyrant_2/Content/Collections/' took 0.00s
+[2021.04.24-09.40.36:606][  0]LogOcInput: OculusInput pre-init called
+[2021.04.24-09.40.36:617][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.24-09.40.36:617][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.24-09.40.36:672][  0]LogEngine: Initializing Engine...
+[2021.04.24-09.40.36:674][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.24-09.40.36:674][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.24-09.40.36:675][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.24-09.40.36:857][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.24-09.40.36:908][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.24-09.40.36:908][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.24-09.40.36:912][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.24-09.40.36:912][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.24-09.40.36:912][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.24-09.40.36:912][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.24-09.40.36:912][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.24-09.40.36:912][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.24-09.40.36:912][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.24-09.40.36:912][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.24-09.40.36:912][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.24-09.40.36:912][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.24-09.40.36:913][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.24-09.40.36:913][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.24-09.40.36:924][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.24-09.40.36:924][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.24-09.40.36:964][  0]LogAudioMixer: Display: Using Audio Device Auriculares (High Definition Audio Device)
+[2021.04.24-09.40.36:969][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.24-09.40.36:971][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.24-09.40.36:971][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.24-09.40.36:973][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.24-09.40.36:973][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.24-09.40.36:973][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.24-09.40.36:974][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.24-09.40.36:974][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.24-09.40.36:974][  0]LogInit: FAudioDevice initialized.
+[2021.04.24-09.40.36:974][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.24-09.40.36:974][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.24-09.40.37:148][  0]LogDerivedDataCache: Saved boot cache 0.17s 86MB C:/Users/Usuario/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.24-09.40.37:148][  0]LogInit: Texture streaming: Enabled
+[2021.04.24-09.40.37:161][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.04.24-09.40.37:166][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.24-09.40.37:166][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.24-09.40.37:169][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.24-09.40.37:220][  0]LogInit: Transaction tracking system initialized
+[2021.04.24-09.40.37:243][  0]BlueprintLog: New page: Editor Load
+[2021.04.24-09.40.37:328][  0]LocalizationService: Localization service is disabled
+[2021.04.24-09.40.37:938][  0]TimingProfiler: Initialize
+[2021.04.24-09.40.37:938][  0]TimingProfiler: OnSessionChanged
+[2021.04.24-09.40.37:938][  0]LoadingProfiler: Initialize
+[2021.04.24-09.40.37:938][  0]LoadingProfiler: OnSessionChanged
+[2021.04.24-09.40.37:938][  0]NetworkingProfiler: Initialize
+[2021.04.24-09.40.37:938][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.24-09.40.37:938][  0]MemoryProfiler: Initialize
+[2021.04.24-09.40.37:938][  0]MemoryProfiler: OnSessionChanged
+[2021.04.24-09.40.38:868][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.24-09.40.38:868][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.24-09.40.40:429][  0]LogFileCache: Scanning file cache for directory 'F:/Level_Design/HouseOfTheTyrant_2/Content/' took 0.45s
+[2021.04.24-09.40.41:627][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.04.24-09.40.41:631][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.806
+[2021.04.24-09.40.41:631][  0]Cmd: MAP LOAD FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.24-09.40.42:031][  0]LightingResults: New page: Lighting Build
+[2021.04.24-09.40.42:032][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.24-09.40.42:032][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.24-09.40.42:032][  0]MapCheck: New page: Map Check
+[2021.04.24-09.40.42:032][  0]LightingResults: New page: Lighting Build
+[2021.04.24-09.40.43:917][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.24-09.40.47:263][  0]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.04.24-09.40.47:263][  0]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.04.24-09.40.49:331][  0]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.04.24-09.40.49:332][  0]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.04.24-09.40.49:332][  0]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.04.24-09.40.49:959][  0]LogTexture: Display: Building textures: RedCarpet_R (BC4, 512X1024)
+[2021.04.24-09.40.49:959][  0]LogTexture: Display: Building textures: RedCarpet_N (BC5, 512X1024)
+[2021.04.24-09.40.49:959][  0]LogTexture: Display: Building textures: RedCarpet_C (AutoDXT, 512X1024)
+[2021.04.24-09.40.49:959][  0]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.04.24-09.40.49:959][  0]LoadErrors: Failed to load /Game/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2021.04.24-09.40.50:440][  0]LogStaticMesh: Building static mesh Kneeler_a...
+[2021.04.24-09.40.50:443][  0]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Lewis/Meshes/Kneeler_a.Kneeler_a
+[2021.04.24-09.40.50:446][  0]LogStaticMesh: Building static mesh CityPlant_b...
+[2021.04.24-09.40.50:448][  0]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Lewis/Meshes/CityPlant_b.CityPlant_b
+[2021.04.24-09.40.50:775][  0]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 2048X2048)
+[2021.04.24-09.40.50:797][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.04.24-09.40.50:819][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.24-09.40.50:819][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.24-09.40.52:055][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.04.24-09.40.52:063][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.24-09.40.52:063][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,095ms to complete.
+[2021.04.24-09.40.52:063][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 10.433
+[2021.04.24-09.40.52:065][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.241
+[2021.04.24-09.40.53:119][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.24-09.40.53:126][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.24-09.40.53:133][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.24-09.40.53:140][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.24-09.40.53:176][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0105 seconds. Added 3660 classes and 874 folders.
+[2021.04.24-09.40.53:179][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.24-09.40.54:481][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.24-09.40.54:481][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.54:481][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.24-09.40.54:481][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.04.24-09.40.54:532][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.24-09.40.54:532][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.54:532][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.24-09.40.54:532][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.04.24-09.40.54:687][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.24-09.40.54:687][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.54:687][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.24-09.40.54:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.04.24-09.40.55:479][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.24-09.40.55:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.55:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.24-09.40.55:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.04.24-09.40.55:682][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.24-09.40.55:682][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.55:682][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.24-09.40.55:682][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.04.24-09.40.55:708][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.24-09.40.55:708][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.55:708][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.24-09.40.55:708][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.04.24-09.40.55:747][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.24-09.40.55:747][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.55:747][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.24-09.40.55:747][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.04.24-09.40.55:875][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.24-09.40.55:875][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.55:875][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.24-09.40.55:875][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.04.24-09.40.55:902][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.24-09.40.55:902][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.55:902][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.24-09.40.55:902][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.04.24-09.40.55:967][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.24-09.40.55:967][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.55:967][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.24-09.40.55:967][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.04.24-09.40.55:978][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.24-09.40.55:978][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.55:978][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.24-09.40.55:978][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.04.24-09.40.56:020][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.24-09.40.56:020][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.56:020][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.24-09.40.56:020][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.04.24-09.40.56:031][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.24-09.40.56:031][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.56:031][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.24-09.40.56:031][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.04.24-09.40.56:045][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.24-09.40.56:045][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.56:045][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.24-09.40.56:045][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.04.24-09.40.56:115][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.24-09.40.56:115][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.56:116][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.24-09.40.56:116][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.04.24-09.40.56:191][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.24-09.40.56:191][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.56:191][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.24-09.40.56:191][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2021.04.24-09.40.56:284][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.24-09.40.56:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.56:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.24-09.40.56:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.04.24-09.40.56:333][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.24-09.40.56:333][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.56:333][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.24-09.40.56:333][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.04.24-09.40.56:879][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.24-09.40.56:879][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.56:879][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.24-09.40.56:879][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.04.24-09.40.57:440][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.24-09.40.57:440][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.57:440][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.24-09.40.57:440][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.04.24-09.40.57:568][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.24-09.40.57:568][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.57:568][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.24-09.40.57:568][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2021.04.24-09.40.57:615][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.24-09.40.57:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.57:616][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.24-09.40.57:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.04.24-09.40.57:819][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.24-09.40.57:819][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.57:819][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.24-09.40.57:819][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2021.04.24-09.40.58:168][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.24-09.40.58:168][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.58:168][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.24-09.40.58:168][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2021.04.24-09.40.58:337][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.24-09.40.58:337][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.58:337][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.24-09.40.58:337][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2021.04.24-09.40.58:478][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.24-09.40.58:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.24-09.40.58:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.24-09.40.58:478][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2021.04.24-09.41.08:603][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.24-09.41.08:604][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.04.24-09.41.08:731][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.24-09.41.08:733][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.24-09.41.08:792][  0]LogSlate: Took 0.055377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.24-09.41.09:318][  0]LogRenderer: Reallocating scene render targets to support 1208x592 Format 10 NumSamples 1 (Frame:1).
+[2021.04.24-09.41.10:356][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.24-09.41.10:356][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.04.24-09.41.10:356][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.04.24-09.41.10:356][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.04.24-09.41.10:356][  0]LogLoad: (Engine Initialization) Total time: 43.53 seconds
+[2021.04.24-09.41.10:356][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.24-09.41.10:356][  0]LogInit: First time updating LLM stats...
+[2021.04.24-09.41.10:456][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.24-09.41.10:712][  0]LogSlate: Took 0.218145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.24-09.41.13:633][328]LogAssetRegistry: Asset discovery search completed in 42.3520 seconds
+[2021.04.24-09.41.13:636][328]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.04.24-09.41.36:803][ 96]LogSlate: Window 'Message Log' being destroyed
+[2021.04.24-09.41.36:807][ 96]LogSlate: Window 'Message Log' being destroyed
+[2021.04.24-09.41.48:253][444]LogSlate: Took 0.022100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.24-09.41.52:341][473]LogRenderer: Reallocating scene render targets to support 2048x2048 Format 10 NumSamples 1 (Frame:4178).
+[2021.04.24-09.41.52:644][473]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 2048X2048)
+[2021.04.24-09.41.52:798][473]Water Texture Update Time: 0.494135 secs
+[2021.04.24-09.41.59:754][194]LogTexture: Display: Building textures: MeltedCandles_d_r (BC4, 512X256)
+[2021.04.24-09.41.59:754][194]LogTexture: Display: Building textures: MeltedCandles_d_n (BC5, 512X256)
+[2021.04.24-09.41.59:754][194]LogTexture: Display: Building textures: MeltedCandles_d_c (AutoDXT, 512X256)
+[2021.04.24-09.41.59:754][194]LogStaticMesh: Building static mesh FoodCrateCloth_a...
+[2021.04.24-09.41.59:754][194]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Lewis/Meshes/FoodCrateCloth_a.FoodCrateCloth_a
+[2021.04.24-09.41.59:830][194]LogStaticMesh: Building static mesh MeltedCandle_d...
+[2021.04.24-09.41.59:835][194]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Lewis/Meshes/MeltedCandle_d.MeltedCandle_d
+[2021.04.24-09.41.59:836][194]LogStaticMesh: Building static mesh MeltedCandle_c...
+[2021.04.24-09.41.59:841][194]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Lewis/Meshes/MeltedCandle_c.MeltedCandle_c
+[2021.04.24-09.41.59:864][194]LogStaticMesh: Building static mesh CityPottedPlantSmall_a...
+[2021.04.24-09.41.59:867][194]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Lewis/Meshes/CityPottedPlantSmall_a.CityPottedPlantSmall_a
+[2021.04.24-09.41.59:875][194]LogStaticMesh: Building static mesh CityRock_a...
+[2021.04.24-09.41.59:898][194]LogStaticMesh: Built static mesh [0.02s] /Game/EF_Lewis/Meshes/CityRock_a.CityRock_a
+[2021.04.24-09.41.59:899][194]LogStaticMesh: Building static mesh CityPottedPlantSmall_d...
+[2021.04.24-09.41.59:903][194]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Lewis/Meshes/CityPottedPlantSmall_d.CityPottedPlantSmall_d
+[2021.04.24-09.41.59:904][194]LogStaticMesh: Building static mesh CityPottedPlantSmall_c...
+[2021.04.24-09.41.59:907][194]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Lewis/Meshes/CityPottedPlantSmall_c.CityPottedPlantSmall_c
+[2021.04.24-09.41.59:909][194]LogStaticMesh: Building static mesh CityPottedPlantSmall_b...
+[2021.04.24-09.41.59:912][194]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Lewis/Meshes/CityPottedPlantSmall_b.CityPottedPlantSmall_b
+[2021.04.24-09.42.03:288][582]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\RiverGreatcleft.umap: Failed to load '/Game/Maps/RiverGreatcleft_BuiltData': Can't find file.
+[2021.04.24-09.42.03:288][582]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\RiverGreatcleft.umap: Failed to load '/Game/Maps/RiverGreatcleft_BuiltData': Can't find file.
+[2021.04.24-09.42.03:288][582]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\RiverGreatcleft.umap: Failed to load '/Game/Maps/RiverGreatcleft_BuiltData': Can't find file.
+[2021.04.24-09.42.03:296][582]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\RiverGreatcleft.umap: Failed to load '/Game/Maps/RiverGreatcleft_BuiltData': Can't find file.
+[2021.04.24-09.42.03:296][582]LoadErrors: Failed to load /Game/Maps/RiverGreatcleft_BuiltData.RiverGreatcleft_BuiltData Referenced by PersistentLevel
+[2021.04.24-09.42.07:439][ 67]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\Gathering.umap: Failed to load '/Game/Maps/Gathering_BuiltData': Can't find file.
+[2021.04.24-09.42.07:440][ 67]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\Gathering.umap: Failed to load '/Game/Maps/Gathering_BuiltData': Can't find file.
+[2021.04.24-09.42.07:440][ 67]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\Gathering.umap: Failed to load '/Game/Maps/Gathering_BuiltData': Can't find file.
+[2021.04.24-09.42.07:460][ 67]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\Gathering.umap: Failed to load '/Game/Maps/Gathering_BuiltData': Can't find file.
+[2021.04.24-09.42.07:460][ 67]LoadErrors: Failed to load /Game/Maps/Gathering_BuiltData.Gathering_BuiltData Referenced by PersistentLevel
+[2021.04.24-09.42.09:362][275]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingTrading.umap: Failed to load '/Game/Maps/BuildingTrading_BuiltData': Can't find file.
+[2021.04.24-09.42.09:363][275]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingTrading.umap: Failed to load '/Game/Maps/BuildingTrading_BuiltData': Can't find file.
+[2021.04.24-09.42.09:363][275]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingTrading.umap: Failed to load '/Game/Maps/BuildingTrading_BuiltData': Can't find file.
+[2021.04.24-09.42.09:398][275]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingTrading.umap: Failed to load '/Game/Maps/BuildingTrading_BuiltData': Can't find file.
+[2021.04.24-09.42.09:398][275]LoadErrors: Failed to load /Game/Maps/BuildingTrading_BuiltData.BuildingTrading_BuiltData Referenced by PersistentLevel
+[2021.04.24-09.42.11:538][501]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingSilkMaking.umap: Failed to load '/Game/Maps/BuildingSilkMaking_BuiltData': Can't find file.
+[2021.04.24-09.42.11:538][501]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingSilkMaking.umap: Failed to load '/Game/Maps/BuildingSilkMaking_BuiltData': Can't find file.
+[2021.04.24-09.42.11:538][501]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingSilkMaking.umap: Failed to load '/Game/Maps/BuildingSilkMaking_BuiltData': Can't find file.
+[2021.04.24-09.42.11:564][501]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingSilkMaking.umap: Failed to load '/Game/Maps/BuildingSilkMaking_BuiltData': Can't find file.
+[2021.04.24-09.42.11:564][501]LoadErrors: Failed to load /Game/Maps/BuildingSilkMaking_BuiltData.BuildingSilkMaking_BuiltData Referenced by PersistentLevel
+[2021.04.24-09.42.13:531][713]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingRoyalMinistry.umap: Failed to load '/Game/Maps/BuildingRoyalMinistry_BuiltData': Can't find file.
+[2021.04.24-09.42.13:531][713]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingRoyalMinistry.umap: Failed to load '/Game/Maps/BuildingRoyalMinistry_BuiltData': Can't find file.
+[2021.04.24-09.42.13:531][713]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingRoyalMinistry.umap: Failed to load '/Game/Maps/BuildingRoyalMinistry_BuiltData': Can't find file.
+[2021.04.24-09.42.13:554][713]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingRoyalMinistry.umap: Failed to load '/Game/Maps/BuildingRoyalMinistry_BuiltData': Can't find file.
+[2021.04.24-09.42.13:554][713]LoadErrors: Failed to load /Game/Maps/BuildingRoyalMinistry_BuiltData.BuildingRoyalMinistry_BuiltData Referenced by PersistentLevel
+[2021.04.24-09.42.15:050][865]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingMines.umap: Failed to load '/Game/Maps/BuildingMines_BuiltData': Can't find file.
+[2021.04.24-09.42.15:050][865]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingMines.umap: Failed to load '/Game/Maps/BuildingMines_BuiltData': Can't find file.
+[2021.04.24-09.42.15:051][865]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingMines.umap: Failed to load '/Game/Maps/BuildingMines_BuiltData': Can't find file.
+[2021.04.24-09.42.15:074][865]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingMines.umap: Failed to load '/Game/Maps/BuildingMines_BuiltData': Can't find file.
+[2021.04.24-09.42.15:074][865]LoadErrors: Failed to load /Game/Maps/BuildingMines_BuiltData.BuildingMines_BuiltData Referenced by PersistentLevel
+[2021.04.24-09.42.16:754][ 35]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingGoldMining.umap: Failed to load '/Game/Maps/BuildingGoldMining_BuiltData': Can't find file.
+[2021.04.24-09.42.16:754][ 35]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingGoldMining.umap: Failed to load '/Game/Maps/BuildingGoldMining_BuiltData': Can't find file.
+[2021.04.24-09.42.16:754][ 35]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingGoldMining.umap: Failed to load '/Game/Maps/BuildingGoldMining_BuiltData': Can't find file.
+[2021.04.24-09.42.16:775][ 35]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingGoldMining.umap: Failed to load '/Game/Maps/BuildingGoldMining_BuiltData': Can't find file.
+[2021.04.24-09.42.16:775][ 35]LoadErrors: Failed to load /Game/Maps/BuildingGoldMining_BuiltData.BuildingGoldMining_BuiltData Referenced by PersistentLevel
+[2021.04.24-09.42.18:489][217]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingCitadel.umap: Failed to load '/Game/Maps/BuildingCitadel_BuiltData': Can't find file.
+[2021.04.24-09.42.18:490][217]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingCitadel.umap: Failed to load '/Game/Maps/BuildingCitadel_BuiltData': Can't find file.
+[2021.04.24-09.42.18:490][217]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingCitadel.umap: Failed to load '/Game/Maps/BuildingCitadel_BuiltData': Can't find file.
+[2021.04.24-09.42.18:503][217]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingCitadel.umap: Failed to load '/Game/Maps/BuildingCitadel_BuiltData': Can't find file.
+[2021.04.24-09.42.18:503][217]LoadErrors: Failed to load /Game/Maps/BuildingCitadel_BuiltData.BuildingCitadel_BuiltData Referenced by PersistentLevel
+[2021.04.24-09.42.21:845][597]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingCitadelDome.umap: Failed to load '/Game/Maps/BuildingCitadelDome_BuiltData': Can't find file.
+[2021.04.24-09.42.21:845][597]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingCitadelDome.umap: Failed to load '/Game/Maps/BuildingCitadelDome_BuiltData': Can't find file.
+[2021.04.24-09.42.21:845][597]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingCitadelDome.umap: Failed to load '/Game/Maps/BuildingCitadelDome_BuiltData': Can't find file.
+[2021.04.24-09.42.21:909][597]LogLinker: Warning: [AssetLog] F:\Level_Design\HouseOfTheTyrant_2\Content\Maps\BuildingCitadelDome.umap: Failed to load '/Game/Maps/BuildingCitadelDome_BuiltData': Can't find file.
+[2021.04.24-09.42.21:909][597]LoadErrors: Failed to load /Game/Maps/BuildingCitadelDome_BuiltData.BuildingCitadelDome_BuiltData Referenced by PersistentLevel
+[2021.04.24-09.45.37:062][680]LogStaticMesh: Building static mesh FishBalloon_a_2...
+[2021.04.24-09.45.37:099][680]LogStaticMesh: Built static mesh [0.04s] /Game/EF_Lewis/Meshes/FishBalloon_a_2.FishBalloon_a_2
+[2021.04.24-09.45.37:227][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EF_Lewis/Meshes/FishBalloon_a_2" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/EF_Lewis/Meshes/FishBalloon_a_2.uasset" SILENT=true
+[2021.04.24-09.45.37:239][680]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/FishBalloon_a_2A7EE6C3B4F95C1C8FF10DB9E0BAF55F3.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Content/EF_Lewis/Meshes/FishBalloon_a_2.uasset'
+[2021.04.24-09.45.37:845][680]AssetCheck: New page: Asset Save: FishBalloon_a_2
+[2021.04.24-09.45.37:845][680]LogContentValidation: Display: Validating StaticMesh /Game/EF_Lewis/Meshes/FishBalloon_a_2.FishBalloon_a_2
+[2021.04.24-09.45.54:016][412]LogContentBrowser: Attempting asset rename: FishBalloon_a_2 -> FishBP
+[2021.04.24-09.45.54:785][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EF_Lewis/Meshes/FishBP" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/EF_Lewis/Meshes/FishBP.uasset" SILENT=true
+[2021.04.24-09.45.54:794][412]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/FishBPB136D77A4C8C4CD28FAC03A35A3C3CF4.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Content/EF_Lewis/Meshes/FishBP.uasset'
+[2021.04.24-09.45.55:267][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.04.24-09.45.55:281][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.04.24-09.45.55:290][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.04.24-09.45.55:473][412]SourceControl: rm 'HouseOfTheTyrant_2/Content/EF_Lewis/Meshes/FishBalloon_a_2.uasset'
+[2021.04.24-09.45.55:869][412]AssetCheck: New page: Asset Save: FishBP
+[2021.04.24-09.45.55:869][412]LogContentValidation: Display: Validating StaticMesh /Game/EF_Lewis/Meshes/FishBP.FishBP
+[2021.04.24-09.46.37:401][658]LogStaticMesh: Building static mesh FishBP...
+[2021.04.24-09.46.37:428][658]LogStaticMesh: Built static mesh [0.03s] /Game/ThirdPersonBP/Blueprints/FishBP.FishBP
+[2021.04.24-09.46.37:554][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FishBP" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP.uasset" SILENT=true
+[2021.04.24-09.46.37:565][658]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/FishBPED68D67E457367DFA5BB869B56162F41.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP.uasset'
+[2021.04.24-09.46.38:145][658]AssetCheck: New page: Asset Save: FishBP
+[2021.04.24-09.46.38:145][658]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Blueprints/FishBP.FishBP
+[2021.04.24-09.47.21:903][150]LogActorFactory: Actor Factory created FishBP
+[2021.04.24-09.47.22:518][209]LogActorFactory: Actor Factory created FishBP
+[2021.04.24-09.47.25:675][524]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Blueprints/FishBP.FishBP
+[2021.04.24-09.47.26:587][524]LogSlate: Took 0.008969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.24-09.47.31:826][992]LogSlate: Window 'FishBP' being destroyed
+[2021.04.24-09.47.31:832][992]LogSlate: Window 'FishBP' being destroyed
+[2021.04.24-09.47.31:838][992]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.04.24-09.47.31:838][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.24-09.48.11:149][865]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.04.24-09.48.11:157][865]LogActorComponent: UnregisterComponent: (/Game/ThirdPersonBP/Blueprints/FishBP_Blueprint.Default__FishBP_Blueprint_C:StaticMeshComponent0) Not registered. Aborting.
+[2021.04.24-09.48.11:170][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.04.24-09.48.11:203][865]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/FishBP_Blueprint.FishBP_Blueprint
+[2021.04.24-09.48.11:493][865]LogLinker: Warning: [AssetLog] F:\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.04.24-09.48.11:493][865]LogLinker: Warning: [AssetLog] F:\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.04.24-09.48.11:493][865]LogLinker: Warning: [AssetLog] F:\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.04.24-09.48.12:030][865]LogLinker: Warning: [AssetLog] F:\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.04.24-09.48.12:030][865]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2021.04.24-09.48.12:038][865]LogLinker: Warning: [AssetLog] F:\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.04.24-09.48.12:038][865]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2021.04.24-09.48.12:114][865]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.04.24-09.48.12:117][865]LogMaterial: Warning: [AssetLog] F:\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.24-09.48.12:117][865]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.24-09.48.12:143][865]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.04.24-09.48.12:145][865]LogMaterial: Warning: [AssetLog] F:\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.24-09.48.12:145][865]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.24-09.48.12:146][865]LogBlueprintEditor: Perf: 0.9 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.04.24-09.48.12:146][865]LogBlueprintEditor: Perf: 0.8 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2021.04.24-09.48.12:200][865]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.04.24-09.48.25:876][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FishBP_Blueprint" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset" SILENT=true
+[2021.04.24-09.48.25:884][758]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/FishBP_Blueprint48145BA346CA75B895E55D88205B37AC.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset'
+[2021.04.24-09.48.26:101][758]AssetCheck: New page: Asset Save: FishBP_Blueprint
+[2021.04.24-09.48.26:101][758]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/FishBP_Blueprint.FishBP_Blueprint
+[2021.04.24-09.48.30:141][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.04.24-09.48.30:231][ 54]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.24-09.48.37:702][ 54]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.24-09.49.34:984][829]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Blueprints/FishBP.FishBP
+[2021.04.24-09.49.50:533][ 85]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.04.24-09.49.50:533][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.24-09.50.02:104][911]BlueprintLog: New page: Compile FishBP_Blueprint
+[2021.04.24-09.50.02:185][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.04.24-09.50.02:967][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FishBP_Blueprint" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset" SILENT=true
+[2021.04.24-09.50.02:975][970]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/FishBP_BlueprintF303234246ECEC27E31D44851D6F3090.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset'
+[2021.04.24-09.50.02:985][970]AssetCheck: New page: Asset Save: FishBP_Blueprint
+[2021.04.24-09.50.02:985][970]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/FishBP_Blueprint.FishBP_Blueprint
+[2021.04.24-09.50.28:394][477]LogSlate: Took 0.007402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.04.24-09.50.42:973][826]BlueprintLog: New page: Compile FishBP_Blueprint
+[2021.04.24-09.50.43:042][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.04.24-09.50.43:716][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FishBP_Blueprint" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset" SILENT=true
+[2021.04.24-09.50.43:725][873]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/FishBP_Blueprint3BC97AC84A0BD480C4111E9483B19760.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset'
+[2021.04.24-09.50.43:736][873]AssetCheck: New page: Asset Save: FishBP_Blueprint
+[2021.04.24-09.50.43:737][873]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/FishBP_Blueprint.FishBP_Blueprint
+[2021.04.24-09.51.04:694][784]BlueprintLog: New page: Compile FishBP_Blueprint
+[2021.04.24-09.51.04:762][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.04.24-09.51.06:040][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FishBP_Blueprint" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset" SILENT=true
+[2021.04.24-09.51.06:048][884]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/FishBP_Blueprint71CDFDF5459473CE9A9FD1AC2F424AF5.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset'
+[2021.04.24-09.51.06:057][884]AssetCheck: New page: Asset Save: FishBP_Blueprint
+[2021.04.24-09.51.06:057][884]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/FishBP_Blueprint.FishBP_Blueprint
+[2021.04.24-09.51.30:335][104]BlueprintLog: New page: Compile FishBP_Blueprint
+[2021.04.24-09.51.30:408][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.04.24-09.51.30:992][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FishBP_Blueprint" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset" SILENT=true
+[2021.04.24-09.51.31:001][142]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/FishBP_Blueprint7D9F3F1A4D2BCF1A0D2373ADB604B5BC.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset'
+[2021.04.24-09.51.31:010][142]AssetCheck: New page: Asset Save: FishBP_Blueprint
+[2021.04.24-09.51.31:010][142]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/FishBP_Blueprint.FishBP_Blueprint
+[2021.04.24-09.51.48:920][729]LogSlate: Took 0.020746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.24-09.52.17:426][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.04.24-09.52.17:429][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Landscape" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Saved/Autosaves/Game/Maps/Landscape_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.24-09.52.18:577][282]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/Landscape_Auto1C881D3B34E29B5BDBB1B5EAE46FDE0B9.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Saved/Autosaves/Game/Maps/Landscape_Auto1.umap'
+[2021.04.24-09.52.18:591][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PlayerGuidance" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Saved/Autosaves/Game/Maps/PlayerGuidance_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.24-09.52.18:606][282]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/PlayerGuidance_Auto1604C06AA4273234B1B9E2AB981296942.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Saved/Autosaves/Game/Maps/PlayerGuidance_Auto1.umap'
+[2021.04.24-09.52.18:608][282]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonExampleMap' took 1.214
+[2021.04.24-09.52.18:608][282]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.214
+[2021.04.24-09.55.01:055][ 66]BlueprintLog: New page: Compile FishBP_Blueprint
+[2021.04.24-09.55.01:128][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.04.24-09.55.01:949][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FishBP_Blueprint" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset" SILENT=true
+[2021.04.24-09.55.01:958][120]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/FishBP_Blueprint93BF983D4AD612831FE9528DA7831DB1.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset'
+[2021.04.24-09.55.01:968][120]AssetCheck: New page: Asset Save: FishBP_Blueprint
+[2021.04.24-09.55.01:968][120]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/FishBP_Blueprint.FishBP_Blueprint
+[2021.04.24-09.56.55:273][656]BlueprintLog: New page: Compile FishBP_Blueprint
+[2021.04.24-09.56.55:345][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.04.24-09.56.56:629][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FishBP_Blueprint" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset" SILENT=true
+[2021.04.24-09.56.56:661][753]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/FishBP_BlueprintA117492D4584555781B7AFADF1BBAC71.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset'
+[2021.04.24-09.56.56:673][753]AssetCheck: New page: Asset Save: FishBP_Blueprint
+[2021.04.24-09.56.56:673][753]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/FishBP_Blueprint.FishBP_Blueprint
+[2021.04.24-09.57.19:821][662]LogEditorViewport: Clicking on Actor (LMB): FishBP_Blueprint_C (FishBP_Blueprint)
+[2021.04.24-09.57.21:186][816]Cmd: DELETE
+[2021.04.24-09.57.21:186][816]Cmd: ACTOR DELETE
+[2021.04.24-09.57.21:235][816]LogEditorActor: Deleted Actor: FishBP_Blueprint_C
+[2021.04.24-09.57.21:261][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.04.24-09.57.21:264][816]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2021.04.24-09.57.22:239][931]LogEditorViewport: Clicking on Actor (LMB): WaterBodyOcean (WaterBodyOcean)
+[2021.04.24-09.57.29:543][752]LogEditorViewport: Clicking on Actor (LMB): FishBP_Blueprint_C (FishBP_Blueprint2)
+[2021.04.24-09.59.40:784][283]LogEditorViewport: Clicking on Actor (LMB): FishBP_Blueprint_C (FishBP_Blueprint2)
+[2021.04.24-10.00.00:539][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PlayerGuidance" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/Maps/PlayerGuidance.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.24-10.00.00:566][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.04.24-10.00.00:580][104]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/PlayerGuidance328C72A84CF942DDB5555A9AD13E0940.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Content/Maps/PlayerGuidance.umap'
+[2021.04.24-10.00.00:592][104]AssetCheck: New page: Asset Save: PlayerGuidance
+[2021.04.24-10.00.00:592][104]LogContentValidation: Display: Validating World /Game/Maps/PlayerGuidance.PlayerGuidance
+[2021.04.24-10.00.01:418][195]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.24-10.00.01:426][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.24-10.00.01:453][195]PIE: New page: PIE session: ThirdPersonExampleMap (24 abr. 2021 14:00:01)
+[2021.04.24-10.00.01:455][195]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.24-10.00.01:456][195]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.24-10.00.01:456][195]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.24-10.00.01:630][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.173971s)
+[2021.04.24-10.00.01:631][195]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.24-10.00.01:631][195]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2021.04.24-10.00.01:631][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.175788s)
+[2021.04.24-10.00.01:660][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.04.24-10.00.01:666][195]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.24-10.00.01:666][195]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.24-10.00.01:666][195]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.24-10.00.01:666][195]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.24-10.00.01:666][195]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.24-10.00.01:666][195]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.24-10.00.01:666][195]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.24-10.00.01:666][195]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.24-10.00.01:667][195]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.24-10.00.01:667][195]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.24-10.00.01:667][195]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.24-10.00.01:672][195]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.24-10.00.01:672][195]LogAudioMixer: Display: 1: FrontRight
+[2021.04.24-10.00.01:686][195]LogAudioMixer: Display: Using Audio Device Auriculares (High Definition Audio Device)
+[2021.04.24-10.00.01:686][195]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.24-10.00.01:686][195]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.24-10.00.01:686][195]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.24-10.00.01:687][195]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.24-10.00.01:687][195]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.24-10.00.01:687][195]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.24-10.00.01:703][195]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.24-10.00.01:703][195]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.24-10.00.01:703][195]LogInit: FAudioDevice initialized.
+[2021.04.24-10.00.01:703][195]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.04.24-10.00.01:718][195]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.24-10.00.01:828][195]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.24-12.00.01
+[2021.04.24-10.00.01:828][195]LogWorld: Bringing up level for play took: 0.001524
+[2021.04.24-10.00.01:828][195]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.04.24-10.00.01:835][195]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.04.24-10.00.03:996][195]PIE: Server logged in
+[2021.04.24-10.00.03:998][195]PIE: Play in editor total start time 2,575 seconds.
+[2021.04.24-10.00.28:290][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.24-10.00.28:290][924]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.24-10.00.28:297][924]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.24-10.00.28:310][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.24-10.00.28:317][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.24-10.00.28:342][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.24-10.00.28:385][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.24-10.00.28:385][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.24-10.00.28:387][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.24-10.00.28:451][924]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.04.24-10.00.28:508][925]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.04.24-10.00.28:538][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.04.24-10.00.49:541][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PlayerGuidance" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/Maps/PlayerGuidance.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.24-10.00.49:569][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.04.24-10.00.49:585][611]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/PlayerGuidance06B544A64F72A2072981DCB83E4ED323.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Content/Maps/PlayerGuidance.umap'
+[2021.04.24-10.00.49:596][611]AssetCheck: New page: Asset Save: PlayerGuidance
+[2021.04.24-10.00.49:596][611]LogContentValidation: Display: Validating World /Game/Maps/PlayerGuidance.PlayerGuidance
+[2021.04.24-10.00.50:043][644]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.24-10.00.50:053][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.24-10.00.50:053][644]PIE: New page: PIE session: ThirdPersonExampleMap (24 abr. 2021 14:00:50)
+[2021.04.24-10.00.50:053][644]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.24-10.00.50:210][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157742s)
+[2021.04.24-10.00.50:211][644]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.24-10.00.50:211][644]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2021.04.24-10.00.50:212][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.159215s)
+[2021.04.24-10.00.50:246][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.04.24-10.00.50:252][644]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.04.24-10.00.50:252][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.24-10.00.50:252][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.24-10.00.50:252][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.24-10.00.50:252][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.24-10.00.50:252][644]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.24-10.00.50:252][644]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.24-10.00.50:252][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.24-10.00.50:252][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.24-10.00.50:252][644]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.24-10.00.50:253][644]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.24-10.00.50:257][644]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.24-10.00.50:257][644]LogAudioMixer: Display: 1: FrontRight
+[2021.04.24-10.00.50:270][644]LogAudioMixer: Display: Using Audio Device Auriculares (High Definition Audio Device)
+[2021.04.24-10.00.50:270][644]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.24-10.00.50:270][644]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.24-10.00.50:270][644]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.24-10.00.50:271][644]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.24-10.00.50:271][644]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.24-10.00.50:271][644]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.24-10.00.50:287][644]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.24-10.00.50:287][644]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.24-10.00.50:287][644]LogInit: FAudioDevice initialized.
+[2021.04.24-10.00.50:287][644]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.04.24-10.00.50:293][644]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.24-10.00.50:295][644]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.24-12.00.50
+[2021.04.24-10.00.50:296][644]LogWorld: Bringing up level for play took: 0.001320
+[2021.04.24-10.00.50:296][644]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.04.24-10.00.52:589][644]PIE: Server logged in
+[2021.04.24-10.00.52:591][644]PIE: Play in editor total start time 2,542 seconds.
+[2021.04.24-10.01.02:791][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.24-10.01.02:791][813]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.24-10.01.02:798][813]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.24-10.01.02:799][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.24-10.01.02:806][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.24-10.01.02:827][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.24-10.01.02:857][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.24-10.01.02:857][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.24-10.01.02:858][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.24-10.01.02:932][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.04.24-10.01.02:985][814]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.04.24-10.01.03:015][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.24-10.01.08:973][294]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.24-10.01.08:981][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.24-10.01.08:981][294]PIE: New page: PIE session: ThirdPersonExampleMap (24 abr. 2021 14:01:08)
+[2021.04.24-10.01.09:019][294]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.24-10.01.09:173][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154842s)
+[2021.04.24-10.01.09:174][294]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.24-10.01.09:175][294]LogPlayLevel: PIE: World Init took: (0.001337s)
+[2021.04.24-10.01.09:175][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.156351s)
+[2021.04.24-10.01.09:213][294]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2021.04.24-10.01.09:216][294]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.04.24-10.01.09:216][294]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.24-10.01.09:216][294]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.24-10.01.09:216][294]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.24-10.01.09:216][294]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.24-10.01.09:216][294]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.24-10.01.09:216][294]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.24-10.01.09:216][294]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.24-10.01.09:216][294]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.24-10.01.09:217][294]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.24-10.01.09:217][294]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.24-10.01.09:221][294]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.24-10.01.09:221][294]LogAudioMixer: Display: 1: FrontRight
+[2021.04.24-10.01.09:235][294]LogAudioMixer: Display: Using Audio Device Auriculares (High Definition Audio Device)
+[2021.04.24-10.01.09:235][294]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.24-10.01.09:235][294]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.24-10.01.09:235][294]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.24-10.01.09:236][294]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.24-10.01.09:236][294]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.24-10.01.09:236][294]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.24-10.01.09:251][294]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.24-10.01.09:252][294]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.24-10.01.09:252][294]LogInit: FAudioDevice initialized.
+[2021.04.24-10.01.09:252][294]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2021.04.24-10.01.09:260][294]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.24-10.01.09:262][294]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.24-12.01.09
+[2021.04.24-10.01.09:262][294]LogWorld: Bringing up level for play took: 0.001359
+[2021.04.24-10.01.09:262][294]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.04.24-10.01.11:253][294]PIE: Server logged in
+[2021.04.24-10.01.11:254][294]PIE: Play in editor total start time 2,276 seconds.
+[2021.04.24-10.01.32:210][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.24-10.01.32:210][660]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.24-10.01.32:218][660]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.24-10.01.32:218][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.24-10.01.32:226][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.24-10.01.32:249][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.24-10.01.32:287][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.24-10.01.32:287][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.24-10.01.32:288][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.24-10.01.32:324][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.04.24-10.01.32:383][661]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.04.24-10.01.32:413][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.04.24-10.07.33:200][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PlayerGuidance" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/Maps/PlayerGuidance.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.24-10.07.33:233][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.04.24-10.07.33:250][803]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/PlayerGuidance090D78E243ABAEE1C2B7C2823E42BAFD.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Content/Maps/PlayerGuidance.umap'
+[2021.04.24-10.07.33:263][803]AssetCheck: New page: Asset Save: PlayerGuidance
+[2021.04.24-10.07.33:263][803]LogContentValidation: Display: Validating World /Game/Maps/PlayerGuidance.PlayerGuidance
+[2021.04.24-10.08.24:892][610]BlueprintLog: New page: Compile FishBP_Blueprint
+[2021.04.24-10.08.24:976][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.04.24-10.08.25:595][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FishBP_Blueprint" FILE="../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset" SILENT=true
+[2021.04.24-10.08.25:610][642]LogSavePackage: Moving '../../../../Level_Design/HouseOfTheTyrant_2/Saved/FishBP_Blueprint2ADA448B48AA1CFA2E363D846C217193.tmp' to '../../../../Level_Design/HouseOfTheTyrant_2/Content/ThirdPersonBP/Blueprints/FishBP_Blueprint.uasset'
+[2021.04.24-10.08.25:623][642]AssetCheck: New page: Asset Save: FishBP_Blueprint
+[2021.04.24-10.08.25:623][642]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/FishBP_Blueprint.FishBP_Blueprint
+[2021.04.24-10.08.27:292][798]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.24-10.08.27:301][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.24-10.08.27:301][798]PIE: New page: PIE session: ThirdPersonExampleMap (24 abr. 2021 14:08:27)
+[2021.04.24-10.08.27:329][798]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.24-10.08.27:487][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.158986s)
+[2021.04.24-10.08.27:489][798]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.24-10.08.27:489][798]LogPlayLevel: PIE: World Init took: (0.001513s)
+[2021.04.24-10.08.27:489][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.160691s)
+[2021.04.24-10.08.27:524][798]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.04.24-10.08.27:531][798]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.04.24-10.08.27:531][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.24-10.08.27:531][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.24-10.08.27:531][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.24-10.08.27:531][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.24-10.08.27:531][798]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.24-10.08.27:531][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.24-10.08.27:531][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.24-10.08.27:531][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.24-10.08.27:531][798]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.24-10.08.27:531][798]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.24-10.08.27:535][798]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.24-10.08.27:535][798]LogAudioMixer: Display: 1: FrontRight
+[2021.04.24-10.08.27:549][798]LogAudioMixer: Display: Using Audio Device Auriculares (High Definition Audio Device)
+[2021.04.24-10.08.27:549][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.24-10.08.27:549][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.24-10.08.27:549][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.24-10.08.27:550][798]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.24-10.08.27:550][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.24-10.08.27:550][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.24-10.08.27:566][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.24-10.08.27:566][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.24-10.08.27:566][798]LogInit: FAudioDevice initialized.
+[2021.04.24-10.08.27:566][798]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2021.04.24-10.08.27:584][798]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.24-10.08.27:586][798]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.24-12.08.27
+[2021.04.24-10.08.27:586][798]LogWorld: Bringing up level for play took: 0.001764
+[2021.04.24-10.08.27:586][798]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.04.24-10.08.29:831][798]PIE: Server logged in
+[2021.04.24-10.08.29:831][798]PIE: Play in editor total start time 2,534 seconds.
+[2021.04.24-10.08.39:640][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.24-10.08.39:640][944]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.24-10.08.39:647][944]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.24-10.08.39:648][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.24-10.08.39:659][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.24-10.08.39:684][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.24-10.08.39:716][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.24-10.08.39:716][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.24-10.08.39:717][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.24-10.08.39:786][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.04.24-10.08.39:850][945]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.04.24-10.08.39:880][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.04.24-10.08.45:223][394]LogOutputDevice: Warning: 
+
+Script Stack (1 frames):
+FishBP_Blueprint_C.UserConstructionScript
+
+[2021.04.24-10.08.47:602][394]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.379 s
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: === Handled ensure: ===
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: 
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 903]
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: Type mismatch: Expected FishBP_Blueprint_C, Found REINST_FishBP_Blueprint_C_99
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: Stack: 
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffd8fb270e7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffd8e437c14 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdcaae615e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdcaf5d34a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdb329bee1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdb32b06b0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdb32822fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdb3281704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdb2ff2604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdb3280e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffd8e13c435 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffd8e13c5f3 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffd8e11e7a8 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffd8e143d97 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffd8e138728 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdb31c4f90 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffd8f20766b UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdaad96d54 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdaad7f05a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdaad7f5a8 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdaad7f3f9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdaadd8acb UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdaadbd5f4 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdaad42fd6 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdaaccae38 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdaade2fd5 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.24-10.08.47:608][394]LogOutputDevice: Error: [Callstack] 0x00007ffdaad447d7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffdcc853c06 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffdcc855018 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffdcc74f024 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffdcc5925b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffdcc5fe368 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffdcc5f2226 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffdcda4b958 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffdcda39197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffdcda4e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffdcda34310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffe0e0ce858 USER32.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffe0e0ce299 USER32.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffdcda4f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ff6dd5d8848 UE4Editor.exe!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ff6dd5f117c UE4Editor.exe!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ff6dd5f125a UE4Editor.exe!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ff6dd6052bd UE4Editor.exe!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ff6dd607fea UE4Editor.exe!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffe0edf7034 KERNEL32.DLL!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: [Callstack] 0x00007ffe0f5c2651 ntdll.dll!UnknownFunction []
+[2021.04.24-10.08.47:609][394]LogOutputDevice: Error: 
